@@ -13,6 +13,7 @@ Official repository for the CVPR EarthVision 2026 Workshop paper:
 > CVPR EarthVision Workshop 2026
 
 ---
+![Geographic distribution of 50 cities](figures/teaser.png)
 
 ## Overview
 
