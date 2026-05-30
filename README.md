@@ -94,5 +94,5 @@ For questions, bug reports, or dataset issues:
 ## Links
 
 * [Paper](https://openaccess.thecvf.com/content/CVPR2026W/EarthVision/html/Weitzel_50_Cities_to_visit_before_you_classify_-_A_world-wide_CVPRW_2026_paper.html)
-* [Project Page](github.com/rhaensch/50cities)
+* [Project Page](https://github.com/rhaensch/50cities)
 * Dataset: DATASET_LINK
