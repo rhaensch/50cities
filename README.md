@@ -3,7 +3,7 @@
 ### A World-Wide Benchmark Dataset for Remote Sensing Semantic Segmentation
 
 [![Paper](https://img.shields.io/badge/Paper-CVPRW%202026-blue)]([PAPER_LINK](https://openaccess.thecvf.com/content/CVPR2026W/EarthVision/html/Weitzel_50_Cities_to_visit_before_you_classify_-_A_world-wide_CVPRW_2026_paper.html))
-[![Dataset](https://img.shields.io/badge/Dataset-Available-green)](DATASET_LINK)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-green)](https://tubcloud.tu-berlin.de/s/B72bgAT2FcA8Ae2)
 [![License](https://img.shields.io/badge/License-LICENSE-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
 Official repository for the CVPR EarthVision 2026 Workshop paper:
@@ -55,7 +55,7 @@ The benchmark is intended for:
 
 ## Download
 
-* Dataset: 
+* [Dataset](https://tubcloud.tu-berlin.de/s/B72bgAT2FcA8Ae2)
 
 ---
 
@@ -95,4 +95,4 @@ For questions, bug reports, or dataset issues:
 
 * [Paper](https://openaccess.thecvf.com/content/CVPR2026W/EarthVision/html/Weitzel_50_Cities_to_visit_before_you_classify_-_A_world-wide_CVPRW_2026_paper.html)
 * [Project Page](https://github.com/rhaensch/50cities)
-* Dataset: DATASET_LINK
+* [Dataset](https://tubcloud.tu-berlin.de/s/B72bgAT2FcA8Ae2)
